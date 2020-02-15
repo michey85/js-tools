@@ -23,3 +23,8 @@ Popular js-tools for different purposes.
 ## Srolls
 * [OverlayScrollbars](https://www.npmjs.com/package/overlayscrollbars)
 Хорошо подходит для горизонтального скролла без визуальных элементов - в первую очередь для мобильного тача (панель табов либо кнопок фильтрации).
+
+## Animation
+* [ParallaxJS](https://github.com/wagerfield/parallax)
+* [Scroll Magic](https://scrollmagic.io/)
+* [Paroller](https://tgomilar.github.io/paroller.js/)

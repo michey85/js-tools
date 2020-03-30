@@ -28,3 +28,9 @@ Popular js-tools for different purposes.
 * [ParallaxJS](https://github.com/wagerfield/parallax)
 * [Scroll Magic](https://scrollmagic.io/)
 * [Paroller](https://tgomilar.github.io/paroller.js/)
+
+## reformat
+* [wNumb.js](https://refreshless.com/wnumb/)
+
+## Optimization
+* [lazysizes](https://github.com/aFarkas/lazysizes)

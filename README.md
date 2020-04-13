@@ -34,3 +34,6 @@ Popular js-tools for different purposes.
 
 ## Optimization
 * [lazysizes](https://github.com/aFarkas/lazysizes)
+
+## Сборка
+* [ParcelJS](https://parceljs.org/)

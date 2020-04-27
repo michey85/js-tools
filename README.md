@@ -6,6 +6,9 @@ Popular js-tools for different purposes.
 * [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
 * [Slick Slider](https://kenwheeler.github.io/slick/)
 
+## Galleries
+* [PhotoSwipe](https://photoswipe.com/)
+
 ## Tooltips
 * [TippyJS](https://atomiks.github.io/tippyjs/)
 

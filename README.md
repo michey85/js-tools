@@ -9,7 +9,7 @@ Popular js-tools for different purposes.
 ## Galleries
 * [PhotoSwipe](https://photoswipe.com/)
 
-## Поддержка <picture> старыми браузерами
+## Поддержка тега picture старыми браузерами
   * [Picturefill](http://scottjehl.github.io/picturefill/)
 
 ## Tooltips

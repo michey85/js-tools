@@ -9,6 +9,9 @@ Popular js-tools for different purposes.
 ## Galleries
 * [PhotoSwipe](https://photoswipe.com/)
 
+## Video Player
+* [Plyr](https://plyr.io/)
+
 ## Поддержка тега picture старыми браузерами
   * [Picturefill](http://scottjehl.github.io/picturefill/)
 

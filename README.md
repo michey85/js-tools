@@ -41,6 +41,9 @@ Popular js-tools for different purposes.
 ## reformat
 * [wNumb.js](https://refreshless.com/wnumb/)
 
+## Обработка дат
+* [momentjs](https://momentjs.com/)
+
 ## Optimization
 * [lazysizes](https://github.com/aFarkas/lazysizes)
 

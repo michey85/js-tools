@@ -49,6 +49,9 @@ Popular js-tools for different purposes.
 
 ## Optimization
 * [lazysizes](https://github.com/aFarkas/lazysizes)
+* [lozad](https://apoorv.pro/lozad.js/)
 
+## Маски для форм
+* [iMask](https://imask.js.org/)
 ## Сборка
 * [ParcelJS](https://parceljs.org/)

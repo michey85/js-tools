@@ -1,5 +1,5 @@
 # js-tools
-Popular js-tools for different purposes.
+Подборка популярных JavaScript библиотек для различных целей.
 
 ## Sliders / Carousel
 * [SwiperJS](https://swiperjs.com/)
@@ -43,6 +43,7 @@ Popular js-tools for different purposes.
 
 ## reformat
 * [wNumb.js](https://refreshless.com/wnumb/)
+* [numeraljs](http://numeraljs.com/)
 
 ## Обработка дат
 * [momentjs](https://momentjs.com/)

@@ -5,6 +5,7 @@
 * [SwiperJS](https://swiperjs.com/)
 * [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
 * [Slick Slider](https://kenwheeler.github.io/slick/)
+* [Alice Carousel for React](https://www.npmjs.com/package/react-alice-carousel)
 
 ## Galleries
 * [PhotoSwipe](https://photoswipe.com/)

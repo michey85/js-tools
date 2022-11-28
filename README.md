@@ -41,6 +41,7 @@
 * [ParallaxJS](https://github.com/wagerfield/parallax)
 * [Scroll Magic](https://scrollmagic.io/)
 * [Paroller](https://tgomilar.github.io/paroller.js/)
+* [Anime] (https://animejs.com/)
 
 ## reformat
 * [wNumb.js](https://refreshless.com/wnumb/)

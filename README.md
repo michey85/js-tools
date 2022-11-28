@@ -58,3 +58,6 @@
 * [iMask](https://imask.js.org/)
 ## Сборка
 * [ParcelJS](https://parceljs.org/)
+
+## Promise
+* [axios](https://github.com/axios/axios)
